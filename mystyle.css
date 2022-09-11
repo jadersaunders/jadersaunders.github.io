@@ -33,6 +33,5 @@
         color: purple
       }
       .menu{
-        text:underline;
+        text-decoration:underline;
       }
-      
