@@ -1,0 +1,17 @@
+      h1{
+        text-align:center;
+        color: purple;
+        background: pink
+      }
+      li:hover{
+        background:blue
+      }
+      li{
+        background: pink;
+        display: inline-block;
+        width: 15%
+      }
+      body{
+        margin:0px;
+        padding:10px
+      }
